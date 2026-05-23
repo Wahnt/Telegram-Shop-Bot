@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+venv/
+src/bot_data/restricted_words
+docker-compose.yml
